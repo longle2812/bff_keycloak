@@ -70,11 +70,11 @@ management:
     web:
       exposure:
         include: '*'
-  health:
-    livenessstate:
-      enabled: true
-    readinessstate:
-      enabled: true
+#  health:
+#    livenessstate:
+#      enabled: true
+#    readiness state:
+#      enabled: true
 
 logging:
   level:

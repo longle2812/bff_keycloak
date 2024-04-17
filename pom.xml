@@ -121,7 +121,7 @@
 					<systemPropertyVariables>
 						<testEnvironment>true</testEnvironment>
 					</systemPropertyVariables>
-					<argLine>-Dspring.profiles.active=auth0</argLine>
+					<argLine>-Dspring.profiles.active=ssl</argLine>
 				</configuration>
 			</plugin>
 

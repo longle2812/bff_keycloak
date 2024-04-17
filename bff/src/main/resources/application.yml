@@ -116,7 +116,7 @@ spring:
       on-profile: ssl
 server:
   ssl:
-    enabled: true
+    enabled: false
 scheme: https
 
 ---
